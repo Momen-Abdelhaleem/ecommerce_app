@@ -5,3 +5,4 @@
 *liguist-vendored=false
 *.dart-liguist-language=Dart
 *.ccp liguist-language=Dart
+/path/to/vendor/* liguist-vendored
