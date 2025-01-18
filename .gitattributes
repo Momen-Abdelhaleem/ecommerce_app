@@ -2,5 +2,6 @@
 
 
 
-
-*.dart-liguist-language=dart
+*liguist-vendored=false
+*.dart-liguist-language=Dart
+*.ccp liguist-language=Dart
